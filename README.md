@@ -1,2 +1,2 @@
 # Data-Science-Projects
-A repository of academic projects exploring data-driven insights and machine learning applications.
+Side projects and Data Science experiments. Just a place to practice, learn, and build stuff with data.
