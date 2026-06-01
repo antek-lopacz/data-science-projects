@@ -9,3 +9,4 @@ Side projects, university assignments, and data science experiments. This is my 
 | **[Panel Data Econometrics](./Panel%20Data%20Econometrics)** | Panel data analysis utilizing the Hausman-Taylor estimator to identify the determinants of unemployment risk among university graduates in Poland | Stata |
 | **[Microeconometrics](./Microeconometrics)** | Microeconometric study utilizing a Tobit model to identify the socio-economic factors shaping public support for inheritance taxation in Poland | Stata |
 | **[Metaheuristics](./Metaheuristics)** | Implementing and visualizing metaheuristic algorithms | Python |
+| **[Breast Cancer Classification](./Breast%20Cancer%20Classification)** | Classification of tumour types from the Breast Cancer Wisconsin dataset using machine learning models such as Logistic Regression, Decision Trees, Random Forests, and AdaBoost | R |
